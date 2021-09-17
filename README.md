@@ -2,4 +2,6 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/astro-gsuan3)
 
-- add tailwindcss
+- ~~git flavoured markdown~~
+- ~~preview markdown~~
+- add tailwindcss~~
