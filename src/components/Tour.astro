@@ -1,7 +1,6 @@
 ---
 import { Markdown } from 'astro/components';
-import admin from '../utils/js-modules/admin.js'
-admin.name="garywu125"
+import {ModuleTest} from '../components/ModuleTest.astro'
 ---
 <article>
     <div class="banner">
@@ -41,7 +40,8 @@ admin.name="garywu125"
         <p>Feel free to check <a href="https://github.com/snowpackjs/astro">our documentation</a> or jump into our <a href="https://astro.build/chat">Discord server</a>.</p>
     </section>
     <section>
-     <p>Admin:{admin.name}</p>
+     <!-- <p>Admin:{admin.name}</p> -->
+     <ModuleTest />
     </section>
 </article>
 
