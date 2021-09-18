@@ -4,4 +4,5 @@
 
 - ~~git flavoured markdown~~
 - ~~preview markdown~~
+- ~~import github repository~~
 - add tailwindcss~~
